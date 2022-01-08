@@ -1,0 +1,10 @@
+220108 16:25:06 1919 Xrd: XrdClientMessage::ReadRaw: Failed to read header (8 bytes).
+220108 16:25:24 1913 Xrd: XrdClientMessage::ReadRaw: Failed to read header (8 bytes).
+220108 16:25:54 1914 Xrd: XrdClientMessage::ReadRaw: Failed to read header (8 bytes).
+220108 16:26:24 1929 Xrd: XrdClientMessage::ReadRaw: Failed to read header (8 bytes).
+220108 16:26:46 1930 Xrd: XrdClientMessage::ReadRaw: Failed to read header (8 bytes).
+220108 16:29:32 1922 Xrd: XrdClientMessage::ReadRaw: Failed to read header (8 bytes).
+220108 16:29:33 1924 Xrd: XrdClientMessage::ReadRaw: Failed to read header (8 bytes).
+220108 16:29:33 1921 Xrd: XrdClientMessage::ReadRaw: Failed to read header (8 bytes).
+220108 16:29:33 1925 Xrd: XrdClientMessage::ReadRaw: Failed to read header (8 bytes).
+220108 16:30:03 1916 Xrd: XrdClientMessage::ReadRaw: Failed to read header (8 bytes).
